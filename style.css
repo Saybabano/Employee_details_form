@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    padding: 8px 13px;
+    border-radius:5px ;
+    border: 2px;
+}
+.name{
+    padding: 8px 9px;
+    border-radius: 5px;
+    border: 2px solid rgb(17, 17, 1);
+}
+.container{
+    border-radius: 5px;
+    border: 2px solid rgb(0, 8, 0);
+    height:50%;
+    width:50%;
+    margin-left: 400px;
+    background-color: rgb(224, 224, 132);
+    
+}
+.sort{
+    text-align: center;
+}
+.com{
+    color: rgb(14, 14, 3);
+}
+.page{
+    margin-top: 20px;
+    margin-left:100px;
+    margin-bottom: 80px;
+}
